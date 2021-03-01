@@ -1,0 +1,9 @@
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_saga\bin\Debug\netcoreapp3.1\rabbitmq_saga.deps.json
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_saga\bin\Debug\netcoreapp3.1\rabbitmq_saga.dll
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_saga\obj\Debug\netcoreapp3.1\rabbitmq_saga.csprojAssemblyReference.cache
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_saga\obj\Debug\netcoreapp3.1\rabbitmq_saga.AssemblyInfoInputs.cache
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_saga\obj\Debug\netcoreapp3.1\rabbitmq_saga.AssemblyInfo.cs
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_saga\bin\Debug\netcoreapp3.1\rabbitmq_saga.pdb
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_saga\obj\Debug\netcoreapp3.1\rabbitmq_saga.csproj.CoreCompileInputs.cache
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_saga\obj\Debug\netcoreapp3.1\rabbitmq_saga.dll
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_saga\obj\Debug\netcoreapp3.1\rabbitmq_saga.pdb

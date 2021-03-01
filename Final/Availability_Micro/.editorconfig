@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0037WithoutSuggestion: Use inferred member name
+dotnet_diagnostic.IDE0037WithoutSuggestion.severity = none

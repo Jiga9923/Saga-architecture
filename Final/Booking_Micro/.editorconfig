@@ -1,0 +1,13 @@
+﻿[*.cs]
+
+# IDE0037WithoutSuggestion: Use inferred member name
+dotnet_diagnostic.IDE0037WithoutSuggestion.severity = none
+
+# CS1998: Async method lacks 'await' operators and will run synchronously
+dotnet_diagnostic.CS1998.severity = none
+
+# IDE0040: Add accessibility modifiers
+dotnet_style_require_accessibility_modifiers = for_non_interface_members:none
+
+# IDE0052: Remove unread private members
+dotnet_diagnostic.IDE0052.severity = none

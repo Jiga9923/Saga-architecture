@@ -1,0 +1,9 @@
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_message\bin\Debug\netcoreapp3.1\rabbitmq_message.deps.json
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_message\bin\Debug\netcoreapp3.1\rabbitmq_message.dll
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_message\bin\Debug\netcoreapp3.1\rabbitmq_message.pdb
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_message\obj\Debug\netcoreapp3.1\rabbitmq_message.csproj.CoreCompileInputs.cache
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_message\obj\Debug\netcoreapp3.1\rabbitmq_message.AssemblyInfoInputs.cache
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_message\obj\Debug\netcoreapp3.1\rabbitmq_message.AssemblyInfo.cs
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_message\obj\Debug\netcoreapp3.1\rabbitmq_message.dll
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_message\obj\Debug\netcoreapp3.1\rabbitmq_message.pdb
+D:\Thesis\JigarModi_MSProject_2020\Source_Code\Final\rabbitmq\rabbitmq_message\obj\Debug\netcoreapp3.1\rabbitmq_message.csprojAssemblyReference.cache
